@@ -1,0 +1,8 @@
+Document: perplexity-ai-requested-file-PerplexityAI,Inc.-2025SOC2Type2Report.pdf
+File Name: perplexity-ai-requested-file-PerplexityAI,Inc.-2025SOC2Type2Report
+Total Lines: 2601
+Split Successful: True
+Pattern Used: SECTION 4[:\-\s]*TRUST SERVICES
+Section 1-3 Length: 62117 characters
+Section 4+ Length: 136487 characters
+Validation: ✓

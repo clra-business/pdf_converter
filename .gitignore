@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# SOC Reports
+
+*.pdf
+
+# Output Files - SOC Reports
+
+/output/*.md
+
+# Environment Variables
+
+.env
+
+# Claude Files - All
+
+Claude.md

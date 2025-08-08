@@ -1,0 +1,14 @@
+PEP 8 -- Style Guide for Python Code: This is the most crucial document for ensuring the model generates clean, readable, and idiomatic Python code.
+* pep-0008.rst
+
+PEP 257 -- Docstring Conventions: This is essential for guiding the model to produce well-documented functions, classes, and modules, a key behavior for a "Senior Architect."
+* pep-0257.rst
+
+Google Python Style Guide: Since the target model is Gemini, providing Google's own internal, opinionated style guide as context will create strong field resonance. The model's training data likely includes vast amounts of code following this standard, and explicitly referencing it will bias generation toward high-quality, Google-standard code.
+* google-pyguide.md
+
+The Python Language Reference (docs.python.org): For resolving ambiguities in Python's syntax and semantics, this is the ground-truth document.
+* python-3.13-docs-text
+
+typing — Support for type hints (Python Docs): To encourage modern, robust Python, providing the documentation for the typing module is essential for generating code with proper type annotations.
+* typing.rst

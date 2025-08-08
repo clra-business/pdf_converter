@@ -1,0 +1,8 @@
+Document: System+and+Organization+Controls+(SOC)+2+Report.pdf
+File Name: System+and+Organization+Controls+(SOC)+2+Report
+Total Lines: 9302
+Split Successful: True
+Pattern Used: Section IV[:\-\s–—]*Description of Criteria.*Controls.*Tests.*Results
+Section 1-3 Length: 279999 characters
+Section 4+ Length: 252044 characters
+Validation: ✓
